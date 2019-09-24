@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>50500</QvBuildNo>
+   <CreatorDoc>\\ctsintbmmima\everyone\687310_Lakshmi\EDC\DataTheme Extract.qvw</CreatorDoc>
+   <CreateUtcTime>2019-04-11 05:40:52</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>EDC_REPORT_ATTRIBUTEWISE</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>RULE_ID</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>18</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>90</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Attribute_ID</FieldName>
+       <BitOffset>14</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>10</NoOfSymbols>
+       <Offset>90</Offset>
+       <Length>50</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Attribute_Name</FieldName>
+       <BitOffset>18</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>10</NoOfSymbols>
+       <Offset>140</Offset>
+       <Length>97</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>DQ_PROJECT_ID</FieldName>
+       <BitOffset>48</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>4</NoOfSymbols>
+       <Offset>237</Offset>
+       <Length>20</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>CASE_NAME</FieldName>
+       <BitOffset>54</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>257</Offset>
+       <Length>16</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>INSTANCE_VAL</FieldName>
+       <BitOffset>22</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>24</NoOfSymbols>
+       <Offset>273</Offset>
+       <Length>120</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>PERCENT_VAL</FieldName>
+       <BitOffset>27</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>-2</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>21</NoOfSymbols>
+       <Offset>393</Offset>
+       <Length>105</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>RULE_NAME</FieldName>
+       <BitOffset>32</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>14</NoOfSymbols>
+       <Offset>498</Offset>
+       <Length>394</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>DATA_THEME_ID</FieldName>
+       <BitOffset>5</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>5</NoOfSymbols>
+       <Offset>892</Offset>
+       <Length>25</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>BUSINESS_THEME_ID</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>6</NoOfSymbols>
+       <Offset>917</Offset>
+       <Length>30</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>BUSS_THM_DESC</FieldName>
+       <BitOffset>50</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>3</NoOfSymbols>
+       <Offset>947</Offset>
+       <Length>22</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>CTY_THM_DESC</FieldName>
+       <BitOffset>11</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>5</NoOfSymbols>
+       <Offset>969</Offset>
+       <Length>85</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>BATCH_NO</FieldName>
+       <BitOffset>36</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>5</NoOfSymbols>
+       <Offset>1054</Offset>
+       <Length>25</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>RULE_CAT_ID</FieldName>
+       <BitOffset>39</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>6</NoOfSymbols>
+       <Offset>1079</Offset>
+       <Length>30</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Date_Updated</FieldName>
+       <BitOffset>42</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>TIMESTAMP</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>7</NoOfSymbols>
+       <Offset>1109</Offset>
+       <Length>35</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Entity_Name</FieldName>
+       <BitOffset>55</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>1144</Offset>
+       <Length>27</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Count_Errors</FieldName>
+       <BitOffset>45</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>8</NoOfSymbols>
+       <Offset>1171</Offset>
+       <Length>40</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Project_ID</FieldName>
+       <BitOffset>52</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>INTEGER</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>4</NoOfSymbols>
+       <Offset>1211</Offset>
+       <Length>20</Length>
+       <Comment></Comment>
+       <Tags></Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>7</RecordByteSize>
+   <NoOfRecords>508</NoOfRecords>
+   <Offset>1231</Offset>
+   <Length>3556</Length>
+   <Lineage></Lineage>
+   <Comment></Comment>
+ </QvdTableHeader>
+      §  m  «      F      '              ±   &  )  k    n      h   i   j   Ç   Å   ~   Ä   l   SSN Last_Name Party_Duration Party_Name DL_ID First_Name Address Email Phone Party_Num    É   ®     InValid Valid <   (   
+   #   F      A      X   K   H         P      Z   2      N       D      -   ¬  <   (   
+   #   F      A      X   K   H         P      Z   2      N       D   Account Address Validation Party name completeness check Address Completeness check Phone Number validity check Account Name Validation Address zipcode format check Party and Phone reference Email Format validation check Account Email Validation Account Phone Validation Party and Email reference Address State and Country check Party and Address reference Party PII significance                !          Å      q   Email Address Name Data Significance Data Timeliness Data Uniformity Data Legitimacy Data Survival                                  
+†  †  	†  e†  ˛ü  Õü  †  C_ADDR_XREF C_PARTY_XREF           3         !   Y      É   ®             @  @  Ä    ¿( $@   10    @90 @   1@   ÄA     @9@$@  ¿(  @!HƒIÅ @!HRÅ@ !HDZ¡ !H1ëH !HÑA°@ !HÑb±L !Hƒj¡$@!HD9ë(@!Hƒ(° @!Hs±,@B@"-DC¿!#MB "DRD{îDRÑÉî0HDR1§DRD9§0HDR1¥DRD9¥0HEP1ƒ FëàAEFëH{DRÑÉÑGQ∆C CC¿!3MB 2B 1IEPD9ƒ$@Fë»(E%DFëH{1DDRÑÉÑ0HGQD∆%DC@C%DB@2-DB@9)DFë1FëH91DFëàA5Fë»(5%DhÿÃãÄâ"Q9ààäaïA	Ñäa’I)IÑäaï 9Ñäaï IÑäa’()ƒäaR))ƒäa’ã9-ƒäa’ãI%ƒã¢ô ™àâ"1à0»,J’ã	à,JïAIà,Jï 	1»,J’(I%»,J’ãà,Jï 1»,JïÉ)%»,JU{)à,Jî9%»,Jî9àM–›ã´ÄN"î<nàN‚ãLàO—ÀÑPëY{MÑM–ù ´!¿N"î<.»N¢ L&»O—]À&ƒPëôÉM%ƒPëR=-ƒPëR-ƒN"RnàPëŸI-ƒN"$nàPëRÑPëR--ƒN"î.»N‚I.»Nb{,àN¢É,&»M–›ããÄM–ù ã!¿O—ù õÑO—›ã´&ƒM–]{ªÄM–ùÉª!¿     @  Q Ä  ¿( $Q  10  @90 Q  1@ ÄA   @9@$Q ¿(  Q!KƒIÅ Q!KRÅ@!KDZ¡!K1ëH!KÑA°@!KÑb±L!Kƒj¡$Q!KD9ë(Q!Kƒ(° Q!Ks±,QB@"-UC¿!#MB "DUD{îDUÑÉî0YDU1§DUD9§0YDU1¥DUD9¥0YES1ƒFîàAEFîH{DUÑÉÑGT∆C CC¿!3MB 2B 1IESD9ƒ$QFî»(E%UFîH{1UDUÑÉÑ0YGTD∆%UC@C%UB@2-UB@9)UFî1FîH91UFîàA5Fî»(5%Uh€Ããëh€L{
+ëh€L{'Çëh€L{7éëh€ÃãGëh€å 2—h€åÉ*—h€åÉ'"—h€å7.—h€å G&—E&1 @ôE&R PôE&RHôEf9  ŸEÊI 0ŸEÊI(ŸEfú@ ŸE¶§@†ôEÊ¨0 ŸE&µ0¿ôâ%—I»8Ÿâ%Q{®ôâ%ëÉ®0Ÿâ%Ròôâ%Qúò0Ÿâ%—ã∏ôâ%ë ∏0Ÿã•Y9äôâ%R»¯ôâ%Q9àôädïA	ïäd’I)Iïädï 9ïädï Iïäd’()’ädR))’äd’ã9-’äd’ãI%’ã•ô ™ôâ%1à0Ÿ,M’ã	ô,MïAIô,Mï 	1Ÿ,M’(I%Ÿ,M’ãô,Mï 1Ÿ,MïÉ)%Ÿ,MU{)ô,Mî9%Ÿ,Mî9ôM”›ã´ëN"î<nôN‚ãLôO‘ÀïPîY{MïM”ù ´!—N"î<.ŸN¢ L&ŸO‘]À&’PîôÉM%’PîR=-’PîR-’N"RnôPîŸI-’N"$nôPîRïPîR--’N"î.ŸN‚I.ŸNb{,ôN¢É,&ŸM”›ããëM”ù ã!—O‘ù õïO‘›ã´&’M”]{ªëM”ùÉª!— Ä   " ¿ã  b Ä " ¿ã $b Ä 0 " ¿ã0 b Ä @" Ä   " ¿ã@$b ¿ã  b!KRÅ b!KƒIÅ@"!KÑ ¡"!KƒIëH"!KƒI°@"!KƒI±L"!Kƒã¡$b!KRë(b!KR° b!KR±,bB¿ã"-fC¿!#M&BÄ "&DUÑ î*DUƒãî0jDUÑ §*DUƒã§0jDUÑ ¥*DUƒã¥0jESÑ ƒ"Fîà E&Fîà &DUÑ Ñ*GTÑ ∆&CÄ C&C¿!3M&BÄ 2&B¿II&ESƒãƒ$bFî»ãE%fFî»ã1fDUƒãÑ0jGTƒã∆%fC¿ãC%fB¿ã2-fB R)fFîà &Fî»ã1fFîà 5&Fî»ã5%fh€å ¢h€å 
+¢h€L%'Ç¢h€L%7é¢h€å G¢h€Ãã2‚h€Ãã*‚h€åç'"‚h€åç7.‚h€ÃãG&‚EÊI @™EÊI P™EÊIH™E&R  ÍE&R 0ÍE&R(ÍE¶§@ ÍEfú@†™E&µ0 ÍEÊ¨0¿™â%—I»8Íâ%ë ®™â%—ã®0Íâ%ë ò™â%—ãò0Íâ%ë ∏™â%—ã∏0Íã•ô ä™â%R»¯™â%ë à™ädï 	¶äd’I)I¶ädï 9¶ädï I¶äd’ã)ÊädR))Êäd’ã9-Êäd’ãI%Êã•ô ™™â%—ãà0Í,Mï 	™,Mï I™,M’ã	1Í,M’ãI%Í,Mï ™,M’ã1Í,M’ã)%Í,Mï )™,M’ã9%Í,Mï 9™M”ù ´¢N"$<n™N¢ L™O‘ù À¶Pîô M¶M”›ã´!‚N‚ç<.ÍN‚ãL&ÍO‘›ãÀ&ÊPîŸãM%ÊPîR=-ÊPîR-ÊN"$n™PîR-ÊN"$n™PîŸI¶PîR--ÊN"î.ÍN"$.ÍN¢ ,™N‚ã,&ÍM”ù ã¢M”›ãã!‚O‘ù õ¶O‘›ã´&ÊM”ù ª¢M”›ãª!‚ Ä   3 ¿ã  s Ä 3 ¿ã $s Ä 0 3 ¿ã0 s Ä @3 Ä   3 ¿ã@$s ¿ã  s!KRÅ s!KƒIÅ@3!KÑ ¡3!KƒIëH3!KƒI°@3!KƒI±L3!Kƒã¡$s!KRë(s!KR° s!KR±,sB¿ã"-wC¿!#M7BÄ "7DUÑ î;DUƒãî0{DUÑ §;DUƒã§0{DUÑ ¥;DUƒã¥0{ESÑ ƒ3Fîà E7Fîà 7DUÑ Ñ;GTÑ ∆7CÄ C7C¿!3M7BÄ 27B¿II7ESƒãƒ$sFî»ãE%wFî»ã1wDUƒãÑ0{GTƒã∆%wC¿ãC%wB¿ã2-wB R)wFîà 7Fî»ã1wFîà 57Fî»ã5%wh€å ≥h€å 
+≥h€L%'Ç≥h€L%7é≥h€å G≥h€Ãã2Ûh€Ãã*Ûh€åç'"Ûh€åç7.Ûh€ÃãG&ÛEÊI @ªEÊI PªEÊIHªE&R  ˚E&R 0˚E&R(˚E¶§@ ˚Efú@†ªE&µ0 ˚EÊ¨0¿ªâ%—I»8˚â%ë ®ªâ%—ã®0˚â%ë òªâ%—ãò0˚â%ë ∏ªâ%—ã∏0˚ã•ô äªâ%R»¯ªâ%ë àªädï 	∑äd’I)I∑ädï 9∑ädï I∑äd’ã)˜ädR))˜äd’ã9-˜äd’ãI%˜ã•ô ™ªâ%—ãà0˚,Mï 	ª,Mï Iª,M’ã	1˚,M’ãI%˚,Mï ª,M’ã1˚,M’ã)%˚,Mï )ª,M’ã9%˚,Mï 9ªM”ù ´≥N"$<nªN¢ LªO‘ù À∑Pîô M∑M”›ã´!ÛN‚ç<.˚N‚ãL&˚O‘›ãÀ&˜PîŸãM%˜PîR=-˜PîR-˜N"$nªPîR-˜N"$nªPîŸI∑PîR--˜N"î.˚N"$.˚N¢ ,ªN‚ã,&˚M”ù ã≥M”›ãã!ÛO‘ù õ∑O‘›ã´&˜M”ù ª≥M”›ãª!ÛhÿL{
+ÄhÿL{'ÇÄhÿL{7éÄhÿÃãGÄhÿå 2¿hÿåÉ*¿hÿåÉ'"¿hÿå7.¿hÿå G&¿B&1 @àB&R PàB&RHàBf9  »BÊI 0»BÊI(»Bfú@ »B¶§@†àBÊ¨0 »B&µ0¿àâ"—I»8»â"Q{®àâ"ëÉ®0»â"Ròàâ"Qúò0»â"—ã∏àâ"ë ∏0»ã¢Y9äàâ"R»¯à
